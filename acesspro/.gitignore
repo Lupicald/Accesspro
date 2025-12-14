@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración y Secretos
+token.json
+client_secret.json
+config_app.json
+usuarios_config.json
+estados.json
+
+# Reportes y Excel
+*.xlsx
+
+# Entornos virtuales
+env/
+venv/
+.env

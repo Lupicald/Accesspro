@@ -12,3 +12,13 @@ logs/sistema_ventas.log
 logs/app.log
 data/ventas_diarias.txt
 data/inventario.txt
+acesspro/token.json
+acesspro/usuarios_config.json
+acesspro/Respaldo_Local.xlsx
+acesspro/Reporte_Asistencia.xlsx
+acesspro/Reporte_Asistencia_Master.xlsx
+acesspro/Registro_Asistencia_ZKTeco.xlsx
+acesspro/Registro_Asistencia_Local.xlsx
+acesspro/estados.json
+acesspro/config_app.json
+acesspro/client_secret.json
